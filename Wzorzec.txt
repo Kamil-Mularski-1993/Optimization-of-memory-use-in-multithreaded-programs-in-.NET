@@ -1,0 +1,7 @@
+[OPTIONS]
+Problem number = 5
+Number of threads = 6
+Number of tasks = 192
+Additional allocation = false
+Garbage Collector = false
+Show results = false

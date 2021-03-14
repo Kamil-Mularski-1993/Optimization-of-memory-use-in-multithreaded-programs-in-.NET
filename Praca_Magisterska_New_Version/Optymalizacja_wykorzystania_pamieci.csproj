@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{40DE9C02-0B06-4E60-90B5-ED372CB0C6C2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Optymalizacja_wykorzystania_pamieci</RootNamespace>
+    <AssemblyName>Optymalizacja_wykorzystania_pamieci</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Diagnostics\Engine_Info.cs" />
+    <Compile Include="Diagnostics\General_Diagnostician.cs" />
+    <Compile Include="Tasks\Decision Tree\Comparision_List.cs" />
+    <Compile Include="Tasks\Decision Tree\Data Structures\Category.cs" />
+    <Compile Include="Tasks\Decision Tree\Data Structures\Data.cs" />
+    <Compile Include="Tasks\Decision Tree\Data Structures\Single_record.cs" />
+    <Compile Include="Tasks\Decision Tree\Decision_Tree.cs" />
+    <Compile Include="Tasks\Decision Tree\Decision_Trees_Collection.cs" />
+    <Compile Include="Tasks\Decision Tree\Node.cs" />
+    <Compile Include="Tasks\Decision Tree\Trees_Parameters.cs" />
+    <Compile Include="Tasks\Simple Allocation\Simple_Allocation_Parameters.cs" />
+    <Compile Include="Tasks\Simple Allocation\Simple_Array_Allocation.cs" />
+    <Compile Include="Tasks_Administrator.cs" />
+    <Compile Include="Delegates\Delegates.cs" />
+    <Compile Include="Diagnostics\Diagnostician.cs" />
+    <Compile Include="Diagnostics\Task_info.cs" />
+    <Compile Include="Diagnostics\Checkpoint.cs" />
+    <Compile Include="Diagnostics\Thread_Info.cs" />
+    <Compile Include="Interfaces\Interfaces.cs" />
+    <Compile Include="Options.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Multi_threaded_Engine.cs" />
+    <Compile Include="Current_Process.cs" />
+    <Compile Include="Tasks\Graph\Graph.cs" />
+    <Compile Include="Tasks\Graph\Graph_Coloring_Parameters.cs" />
+    <Compile Include="Tasks\Graph\Graph_Constructing_Parameters.cs" />
+    <Compile Include="Tasks\Graph\Subgraph.cs" />
+    <Compile Include="Tasks\Graph\Vertex.cs" />
+    <Compile Include="Tasks\Files\Files.cs" />
+    <Compile Include="Tasks\Files\File_Entry.cs" />
+    <Compile Include="Tasks\Array of Numbers\Array_Parameters.cs" />
+    <Compile Include="Tasks\Array of Numbers\Array_Of_Numbers.cs" />
+    <Compile Include="Engine_Task.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

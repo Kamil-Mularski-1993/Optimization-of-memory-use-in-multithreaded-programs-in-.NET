@@ -1,0 +1,28 @@
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe.config
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csprojAssemblyReference.cache
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csprojAssemblyReference.cache
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe.config
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5)\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe.config
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csprojAssemblyReference.cache
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\Praca_Magisterska_New_Version — kopia (5) — kopia\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe.config
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\bin\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.exe
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.pdb
+C:\Users\Kamil Mularski\Desktop\PM Latest version\Praca_Magisterska_New_Version\obj\Debug\Praca_Magisterska_New_Version.csprojAssemblyReference.cache
